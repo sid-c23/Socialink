@@ -1,4 +1,4 @@
-# Socialin
+# Socialink
 
 The first social investing app.
 
